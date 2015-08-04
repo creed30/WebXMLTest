@@ -14,5 +14,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/chadreed/git/WebXMLTest/WebXMLTest/lib/easymock-2.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chadreed/git/WebXMLTest/WebXMLTest/lib/easymockclassextension-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chadreed/git/WebXMLTest/WebXMLTest/lib/cglib-nodep-2.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
