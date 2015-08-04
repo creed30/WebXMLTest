@@ -28,4 +28,14 @@ public class HelloServletFactory
 	public static HelloServlet createHelloServlet() {
 		return new HelloServlet();
 	}
+
+
+	/**
+	 * Create an instance of the class <code>{@link HelloServlet}</code>.
+	 *
+	 * @generatedBy CodePro at 8/4/15 12:24 AM
+	 */
+	public static HelloServlet createHelloServlet2() {
+		return new HelloServlet();
+	}
 }
